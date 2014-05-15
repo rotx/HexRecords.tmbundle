@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>abar</string>
+	<key>contactName</key>
+	<string>Robert Muchsel</string>
+	<key>description</key>
+	<string>Syntax highlighting for Intel Hex files.</string>
+	<key>name</key>
+	<string>HexRecords</string>
+	<key>uuid</key>
+	<string>3EE2F920-DACD-11E3-9C1A-0800200C9A66</string>
+</dict>
+</plist>
